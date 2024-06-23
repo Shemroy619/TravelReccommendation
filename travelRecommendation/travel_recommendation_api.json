@@ -1,0 +1,98 @@
+{
+    "countries": [
+      {
+        "id": 1,
+        "name": "Australia",
+        "cities": [
+          {
+            "name": "Sydney, Australia",
+            "imageUrl": "https://t4.ftcdn.net/jpg/02/43/44/69/360_F_243446992_dlh2txwxYqNIF9jtZeUN5muF3eA7ngnH.jpg",
+            "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
+          },
+          {
+            "name": "Melbourne, Australia",
+            "imageUrl": "https://cdn.britannica.com/64/190464-050-B74E1FD9/view-central-business-district-Melbourne-train-station.jpg",
+            "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Japan",
+        "cities": [
+          {
+            "name": "Tokyo, Japan",
+            "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/high-angle-view-of-tokyo-skyline-at-dusk-japan-royalty-free-image-1664309926.jpg?crop=0.668xw:1.00xh;0.0497xw,0&resize=1200:*",
+            "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
+          },
+          {
+            "name": "Kyoto, Japan",
+            "imageUrl": "https://cdn.cheapoguides.com/wp-content/uploads/sites/3/2020/05/kyoto-view-iStock-1146262403-562x421.jpg",
+            "description": "Known for its historic temples, gardens, and traditional tea houses."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Brazil",
+        "cities": [
+          {
+            "name": "Rio de Janeiro, Brazil",
+            "imageUrl": "https://cdn.mos.cms.futurecdn.net/dxiLtztp2NSCZMRY3SBZne.jpg",
+            "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
+          },
+          {
+            "name": "São Paulo, Brazil",
+            "imageUrl": "https://149990825.v2.pressablecdn.com/wp-content/uploads/2023/09/Sao-Paulo1.jpg",
+            "description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Guyana",
+        "cities": [
+          {
+            "name": "Georgetown, Guyana",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Stabroek.JPG/640px-Stabroek.JPG",
+            "description": "Georgetown is located on Guyana's Atlantic coast on the east bank of Demerara River estuary. The terrain in this part of the country where the city is located is flat coastal plains."
+          },
+          {
+            "name": "Lethem guyana ",
+            "imageUrl": "https://www.thingsguyana.com/wp-content/uploads/2018/03/IMG_2387.jpg",
+            "description": "The Upper Takutu/ Upper Essequibo Region is made up vast savannahs and the Kanuku and Kamoa highlands. The international border between Guyana and Brazil marks its Southern and Western boundaries."
+          }
+        ]
+      }  
+     
+    ],
+    "temples": [
+      {
+        "id": 1,
+        "name": "Angkor Wat, Cambodia",
+        "imageUrl": "https://media.istockphoto.com/id/478677754/photo/angkor-wat.webp?b=1&s=170667a&w=0&k=20&c=RH4q6GwhwaPVRq3y8cUtWLVOvoMZnHjcIbNyCzQyI-Y=",
+        "description": "A UNESCO World Heritage site and the largest religious monument in the world."
+      },
+      {
+        "id": 2,
+        "name": "Taj Mahal, India",
+        "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/NaExfGA1op64-UvPUjYE5ZqCefk=/fit-in/1600x0/filters:focal(1471x1061:1472x1062)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/b6/30/b630b48b-7344-4661-9264-186b70531bdc/istock-478831658.jpg",
+        "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
+      }
+    ],
+    "beaches": [
+      {
+        "id": 1,
+        "name": "Bora Bora, French Polynesia",
+        "imageUrl": "https://travelingcanucks.com/wp-content/uploads/2023/07/bora-bora-52-scaled.jpg",
+        "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
+      },
+      {
+        "id": 2,
+        "name": "Copacabana Beach, Brazil",
+        "imageUrl": "https://cdn.britannica.com/66/150766-050-A833D98E/Copacabana-beach-Rio-de-Janeiro.jpg",
+        "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
+      }
+    ]
+  }
+  

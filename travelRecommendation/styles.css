@@ -1,0 +1,115 @@
+
+
+nav ul {
+    list-style-type: none;
+    /* padding: 0; */
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+
+  nav {
+    justify-content: space-between;
+    width: 100%;
+    height: 50px;
+    background-color: #7e8ef6;
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+    padding: 10px;
+  }
+
+#btnSearch,#btnClear{
+    background-color: #aeeea3;
+    padding: 7px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+#conditionInput,#btnSearch,#btnClear{
+    border-radius: 10px;
+}
+
+#btnSearch:hover,#btnClear:hover{
+    background-color: #c3bf4a;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('the_falls.jpeg'); 
+    background-size: cover; 
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    height: 100vh; /* Sets the height of the body to the full viewport height */
+  }
+  
+  .content {
+    text-align: center;
+    color: white;
+    background-color: rgba(112, 58, 58, 0.5); /* Semi-transparent background for better text readability */
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 50px auto;
+  }
+.moto{
+    font-size: 30px;
+    font-weight: bold;
+    color: #d18b30;
+    padding: 40px;
+    margin-right: 25px;
+    flex:1;
+    text-align: left;
+    border-radius: 20px;
+}
+.intro{
+    font-size: 20px;
+    font-size: large;
+    padding: 20px;
+    margin-right: 10;
+    color:rgb(244, 246, 211);
+    float: left;
+    text-align: left;
+    border-radius: 15px;
+    
+}
+
+
+.about-us {
+    text-align: left;
+  }
+  
+  .about-us h2 {
+    color: #bbcaa3; /* Blue heading color */
+    margin-bottom: 20px;
+  }
+  
+  .about-us p {
+    margin-bottom: 20px;
+    font-size: 1.1em;
+    line-height: 1.6;
+    color:#bceac2
+  }
+  
+  .about-us i {
+    color: #0077b6; /* Blue icon color */
+    margin-right: 10px;
+    font-size: 1.2em;
+  }
+
+  #btnBook{
+    background-color: #bceac2;
+  }
+
+  #btnBook:hover{
+    background-color: #d18b30;
+  }
