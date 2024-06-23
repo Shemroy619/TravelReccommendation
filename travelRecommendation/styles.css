@@ -113,3 +113,12 @@ body {
   #btnBook:hover{
     background-color: #d18b30;
   }
+
+  .searchResults{
+    margin-top: 20px;
+    font-size: large;
+    color: #c3bf4a;
+    margin-right: 50%;
+    border-radius: 15px;
+
+  }
